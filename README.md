@@ -1,0 +1,2 @@
+# HelsinkiCircularHackathon2025_UNO_WattAGame_figma
+Prototype code from Figma Make
